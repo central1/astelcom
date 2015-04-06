@@ -1,4 +1,5 @@
-prueba
+prueba central
+
 <?php require_once('../Connections/con_admin.php'); 
 require_once('paginacion/paginator.class.php'); ?>
 <?php
